@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7cc30bee77fe88046ac4d948cd59be24
+guid: 881cc8ba30f269e42848983514cc7d08
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,11 +106,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghost 1 Right_0
+      name: 4_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 311
+        x: 47
+        y: 297
         width: 50
         height: 32
       alignment: 0
@@ -120,18 +120,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 408940116f565b04ca3a6e56b4349a1b
-      internalID: 1339604405
+      spriteID: 8d90ea282f207f443ae351ddc697bf90
+      internalID: 2105988161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost 1 Right_1
+      name: 4_1
       rect:
         serializedVersion: 2
-        x: 31
-        y: 183
+        x: 47
+        y: 169
         width: 50
         height: 32
       alignment: 0
@@ -141,18 +141,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7903bc8e8a4df224c9dabea11d574beb
-      internalID: -392648658
+      spriteID: c5040ad7cdc52364d9a1ead4d382be5f
+      internalID: 1667319540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost 1 Right_2
+      name: 4_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 55
+        x: 47
+        y: 41
         width: 50
         height: 32
       alignment: 0
@@ -162,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56100499a6062f046940911d1d3e9e1d
-      internalID: -158557484
+      spriteID: b478a95b4612e1241bcbd1661f210203
+      internalID: -911421321
       vertices: []
       indices: 
       edges: []
@@ -179,9 +179,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ghost 1 Right_1: -392648658
-      Ghost 1 Right_2: -158557484
-      Ghost 1 Right_0: 1339604405
+      4_0: 2105988161
+      4_2: -911421321
+      4_1: 1667319540
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

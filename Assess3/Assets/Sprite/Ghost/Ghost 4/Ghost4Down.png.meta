@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 412182689eb2b784c96087e92718fcff
+guid: abea237a53812cf4d80765c84f835442
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gear_0
+      name: Car 3_0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 170
-        width: 39
-        height: 37
+        x: 41
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8d67f74e059ab545b02c464b5aab486
-      internalID: -255735032
+      spriteID: 61b5efda7eee9ae4ca5f6f12fe1d64bf
+      internalID: 714831258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gear_1
+      name: Car 3_1
       rect:
         serializedVersion: 2
-        x: 170
-        y: 170
-        width: 39
-        height: 37
+        x: 169
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b04609ff33b20094d9bab1ca0371aaab
-      internalID: -1953615891
+      spriteID: 3883758d9d1ff9b48b9e6794c29157ea
+      internalID: 729430762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gear_2
+      name: Car 3_2
       rect:
         serializedVersion: 2
-        x: 298
-        y: 170
-        width: 39
-        height: 37
+        x: 297
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7eea672961f8bf144a6c5de816b5da1f
-      internalID: 169582696
+      spriteID: 5c0545eadf3dd8243af78628798ffbcb
+      internalID: -1286620364
       vertices: []
       indices: 
       edges: []
@@ -179,9 +179,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Gear_1: -1953615891
-      Gear_0: -255735032
-      Gear_2: 169582696
+      Car 3_1: 729430762
+      Car 3_2: -1286620364
+      Car 3_0: 714831258
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 881cc8ba30f269e42848983514cc7d08
+guid: 83dae2c5ac1e2e941ac5108f66ac3b13
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 4_0
+      name: Cop 2_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 297
-        width: 50
-        height: 32
+        x: 41
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d90ea282f207f443ae351ddc697bf90
-      internalID: 2105988161
+      spriteID: f7c6d6609c2ac714c9c42b7de6b0cda0
+      internalID: 338966264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4_1
+      name: Cop 2_1
       rect:
         serializedVersion: 2
-        x: 47
-        y: 169
-        width: 50
-        height: 32
+        x: 169
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5040ad7cdc52364d9a1ead4d382be5f
-      internalID: 1667319540
+      spriteID: 8bd730948c2606e4993a3d85efd9032a
+      internalID: 228747851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4_2
+      name: Cop 2_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 41
-        width: 50
-        height: 32
+        x: 297
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b478a95b4612e1241bcbd1661f210203
-      internalID: -911421321
+      spriteID: 84bd2f75d81509346bead997a7003e34
+      internalID: 135857937
       vertices: []
       indices: 
       edges: []
@@ -179,9 +179,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      4_0: 2105988161
-      4_2: -911421321
-      4_1: 1667319540
+      Cop 2_1: 228747851
+      Cop 2_2: 135857937
+      Cop 2_0: 338966264
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

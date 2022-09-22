@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ca8465703f4334747af183602d47cbbf
+guid: 7cc30bee77fe88046ac4d948cd59be24
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,11 +106,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Car 3_0
+      name: Ghost 1 Right_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 297
+        x: 31
+        y: 311
         width: 50
         height: 32
       alignment: 0
@@ -120,18 +120,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02697630da9ffeb498c054bbebd6963a
-      internalID: 433214366
+      spriteID: 408940116f565b04ca3a6e56b4349a1b
+      internalID: 1339604405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Car 3_1
+      name: Ghost 1 Right_1
       rect:
         serializedVersion: 2
-        x: 47
-        y: 169
+        x: 31
+        y: 183
         width: 50
         height: 32
       alignment: 0
@@ -141,18 +141,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ae400da007ca8c4e9c9c4280bde0055
-      internalID: 1526571037
+      spriteID: 7903bc8e8a4df224c9dabea11d574beb
+      internalID: -392648658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Car 3_2
+      name: Ghost 1 Right_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 41
+        x: 31
+        y: 55
         width: 50
         height: 32
       alignment: 0
@@ -162,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e5f85b9c3b1bdd439e9fea781b46339
-      internalID: -239547216
+      spriteID: 56100499a6062f046940911d1d3e9e1d
+      internalID: -158557484
       vertices: []
       indices: 
       edges: []
@@ -179,9 +179,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Car 3_1: 1526571037
-      Car 3_2: -239547216
-      Car 3_0: 433214366
+      Ghost 1 Right_1: -392648658
+      Ghost 1 Right_2: -158557484
+      Ghost 1 Right_0: 1339604405
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

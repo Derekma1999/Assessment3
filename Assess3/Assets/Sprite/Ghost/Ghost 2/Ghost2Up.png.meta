@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4d370148f093e2248bd10c49e509de09
+guid: 853cdeb664acf1e44a5c3524a1eed1da
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,11 +106,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghost Recover_0
+      name: 3_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 31
+        x: 55
+        y: 47
         width: 32
         height: 50
       alignment: 0
@@ -120,18 +120,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a9bb8a9edfe5894487cedfa10742ef3
-      internalID: 1956828704
+      spriteID: dbd65801e1383dc4bb106e891c8f3ebe
+      internalID: -1552267743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost Recover_1
+      name: 3_1
       rect:
         serializedVersion: 2
-        x: 169
-        y: 31
+        x: 183
+        y: 47
         width: 32
         height: 50
       alignment: 0
@@ -141,8 +141,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: beca74b6228255d4a8dd341b58852c72
-      internalID: 1421630082
+      spriteID: f959dfe3dc709104d8e45ef72856299b
+      internalID: -2126437683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 47
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0a5cca14750b418f01230f264b572
+      internalID: -835084326
       vertices: []
       indices: 
       edges: []
@@ -158,8 +179,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ghost Recover_1: 1421630082
-      Ghost Recover_0: 1956828704
+      3_0: -1552267743
+      3_2: -835084326
+      3_1: -2126437683
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d097c6f7462d0694a8e5e2a2d1fdbf03
+guid: bbb21a2714f458c43ba936da9c25d550
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cop 1.1_0
+      name: Cop 1_0
       rect:
         serializedVersion: 2
-        x: 55
-        y: 47
-        width: 32
-        height: 50
+        x: 47
+        y: 297
+        width: 50
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 164460bbe6e07124780fd58f5f3aad45
-      internalID: -1308558763
+      spriteID: e51942696e362d94db9d83e137827bed
+      internalID: 1700887434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cop 1.1_1
+      name: Cop 1_1
       rect:
         serializedVersion: 2
-        x: 183
-        y: 47
-        width: 32
-        height: 50
+        x: 47
+        y: 169
+        width: 50
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4820f7f54ff4b2042abb01b7e593f47a
-      internalID: -757203932
+      spriteID: 0347f0725dfc94f4da4f21224988e739
+      internalID: 318514504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cop 1.1_2
+      name: Cop 1_2
       rect:
         serializedVersion: 2
-        x: 311
-        y: 47
-        width: 32
-        height: 50
+        x: 47
+        y: 41
+        width: 50
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 552ed5dfd623bad4c9ca642ecf718ecf
-      internalID: -254407380
+      spriteID: fe3b276b2710b354aabe75d9ac4e7051
+      internalID: 1343279617
       vertices: []
       indices: 
       edges: []
@@ -179,9 +179,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Cop 1.1_2: -254407380
-      Cop 1.1_1: -757203932
-      Cop 1.1_0: -1308558763
+      Cop 1_2: 1343279617
+      Cop 1_0: 1700887434
+      Cop 1_1: 318514504
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

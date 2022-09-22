@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1c821fad52b489144833f2d55f5d37ed
+guid: c97acb38629379b44a042db922992360
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,7 +106,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1_0
+      name: 2_0
       rect:
         serializedVersion: 2
         x: 31
@@ -120,14 +120,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b52589a350412846a175020f4a3764b
-      internalID: 37749896
+      spriteID: 5fc436de88b52b54fa64f40ca2ca10b8
+      internalID: -1556365144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1_1
+      name: 2_1
       rect:
         serializedVersion: 2
         x: 31
@@ -141,14 +141,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8164bf86dd234ed479f263decafd8570
-      internalID: -593579374
+      spriteID: 89797e4f7ddafea45a546abe9f37e462
+      internalID: -1595894217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1_2
+      name: 2_2
       rect:
         serializedVersion: 2
         x: 31
@@ -162,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 789cc458aa4eb5b438760fff46759998
-      internalID: 1049730882
+      spriteID: 0b6f970a057cc4a47ad21e567ea151b3
+      internalID: -2030974020
       vertices: []
       indices: 
       edges: []
@@ -179,9 +179,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      1_1: -593579374
-      1_0: 37749896
-      1_2: 1049730882
+      2_1: -1595894217
+      2_2: -2030974020
+      2_0: -1556365144
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

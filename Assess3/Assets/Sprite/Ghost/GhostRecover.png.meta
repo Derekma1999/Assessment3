@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4ef258fa6c6c06944bf9507128012e93
+guid: 4d370148f093e2248bd10c49e509de09
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,7 +106,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Car 2_0
+      name: Ghost Recover_0
       rect:
         serializedVersion: 2
         x: 41
@@ -120,14 +120,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09ad86e6767c91a4ca59cae08ec3f47b
-      internalID: 443746515
+      spriteID: 7a9bb8a9edfe5894487cedfa10742ef3
+      internalID: 1956828704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Car 2_1
+      name: Ghost Recover_1
       rect:
         serializedVersion: 2
         x: 169
@@ -141,29 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d8e88e2c650f1f48a08b0c38c33fbd3
-      internalID: 100413841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Car 2_2
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 31
-        width: 32
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf376df09d40d5540967c056df081843
-      internalID: 2145826928
+      spriteID: beca74b6228255d4a8dd341b58852c72
+      internalID: 1421630082
       vertices: []
       indices: 
       edges: []
@@ -179,9 +158,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Car 2_1: 100413841
-      Car 2_0: 443746515
-      Car 2_2: 2145826928
+      Ghost Recover_1: 1421630082
+      Ghost Recover_0: 1956828704
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

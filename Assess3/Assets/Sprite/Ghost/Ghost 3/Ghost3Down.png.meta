@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 98b8fc88d91799a45a8afc1b7e8adc3e
+guid: 4ef258fa6c6c06944bf9507128012e93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,10 +109,10 @@ TextureImporter:
       name: Car 2_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 297
-        width: 50
-        height: 32
+        x: 41
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,8 +120,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1178dd1567ca1074b99888089240033c
-      internalID: -380353907
+      spriteID: 09ad86e6767c91a4ca59cae08ec3f47b
+      internalID: 443746515
       vertices: []
       indices: 
       edges: []
@@ -130,10 +130,10 @@ TextureImporter:
       name: Car 2_1
       rect:
         serializedVersion: 2
-        x: 47
-        y: 169
-        width: 50
-        height: 32
+        x: 169
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2e71696a26abff45a476b654a959a0a
-      internalID: 1259998622
+      spriteID: 9d8e88e2c650f1f48a08b0c38c33fbd3
+      internalID: 100413841
       vertices: []
       indices: 
       edges: []
@@ -151,10 +151,10 @@ TextureImporter:
       name: Car 2_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 41
-        width: 50
-        height: 32
+        x: 297
+        y: 31
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 680200a1e3434f24591a5cfe86bb8ea1
-      internalID: -1665453431
+      spriteID: cf376df09d40d5540967c056df081843
+      internalID: 2145826928
       vertices: []
       indices: 
       edges: []
@@ -179,9 +179,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Car 2_1: 1259998622
-      Car 2_0: -380353907
-      Car 2_2: -1665453431
+      Car 2_1: 100413841
+      Car 2_0: 443746515
+      Car 2_2: 2145826928
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
