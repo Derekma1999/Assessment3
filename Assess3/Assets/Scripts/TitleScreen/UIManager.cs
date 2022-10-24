@@ -9,6 +9,8 @@ public class UIManager : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject Managers;
+
+    public GameObject Text;
     void Start()
     {
 
@@ -40,6 +42,10 @@ public class UIManager : MonoBehaviour
         {
             Managers = GameObject.FindWithTag("QuitButton");
             Button btn = Managers.GetComponent<Button>();
+            if (Text = GameObject.FindWithTag("GhostText"))
+            {
+                Text.SetActive(false);
+            }
             btn.onClick.AddListener(QuitGame);
         }
 
