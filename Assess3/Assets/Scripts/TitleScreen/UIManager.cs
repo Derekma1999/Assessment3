@@ -9,6 +9,8 @@ public class UIManager : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject Managers;
+
+    public GameObject Text;
     void Start()
     {
 
@@ -29,7 +31,8 @@ public class UIManager : MonoBehaviour
 
     public void QuitGame()
     {
-        UnityEditor.EditorApplication.isPlaying = false;
+        // UnityEditor.EditorApplication.isPlaying = false;
+        SceneManager.LoadScene(0, LoadSceneMode.Single);
     }
 
     public void OnSceneLoaded(Scene scene, LoadSceneMode mode)
@@ -39,7 +42,10 @@ public class UIManager : MonoBehaviour
         {
             Managers = GameObject.FindWithTag("QuitButton");
             Button btn = Managers.GetComponent<Button>();
-
+            if (Text = GameObject.FindWithTag("GhostText"))
+            {
+                Text.SetActive(false);
+            }
             btn.onClick.AddListener(QuitGame);
         }
 
