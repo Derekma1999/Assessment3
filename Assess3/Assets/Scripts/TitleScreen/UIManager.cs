@@ -31,7 +31,6 @@ public class UIManager : MonoBehaviour
 
     public void QuitGame()
     {
-        // UnityEditor.EditorApplication.isPlaying = false;
         SceneManager.LoadScene(0, LoadSceneMode.Single);
     }
 

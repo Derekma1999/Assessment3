@@ -530,6 +530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Managers: {fileID: 0}
+  Text: {fileID: 0}
 --- !u!4 &426854948
 Transform:
   m_ObjectHideFlags: 0
@@ -603,7 +604,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -593579374, guid: 1c821fad52b489144833f2d55f5d37ed, type: 3}
+  m_Sprite: {fileID: 1049730882, guid: 1c821fad52b489144833f2d55f5d37ed, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
